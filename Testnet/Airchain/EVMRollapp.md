@@ -65,6 +65,12 @@ s%:26656%:${G_PORT}656%g;
 s%^external_address = \"\"%external_address = \"$(wget -qO- eth0.me):${G_PORT}656\"%;
 s%:26660%:${G_PORT}660%g" $HOME/.evmosd/config/config.toml
 ```
+#### Change address to 0.0.0.0
+```
+nano $HOME/.evmosd/config/app.toml
+```
+<img width="500" alt="image" src="https://github.com/Adamtruong6868/VNBnode-Guides/assets/91002010/ec37b3d4-0b4c-4637-b2b5-964aac2650e6">
+
 ## Avail DA
 ```
 screen -S avail
