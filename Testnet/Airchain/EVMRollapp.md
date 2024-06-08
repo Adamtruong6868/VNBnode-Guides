@@ -123,10 +123,10 @@ go run cmd/main.go create-station --accountName "YOUR-NAME-VNBnode" --accountPat
 ```
 go run cmd/main.go start
 ```
-Monitoring your appchain:
+# Monitoring your appchain:
 [https://points.airchains.io/](https://points.airchains.io/)
 
-Add chain to metamask:
+# Add chain to metamask:
 
 Chain Name:
 
