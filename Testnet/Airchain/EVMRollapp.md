@@ -43,7 +43,7 @@ nano ./scripts/local-setup.sh
 ```
 /bin/bash ./scripts/local-keys.sh
 ```
-#### Custom ports
+#### Custom your ports (defaut = 16)
 ```
 echo "export G_PORT="16"" >> $HOME/.bash_profile
 source $HOME/.bash_profile
