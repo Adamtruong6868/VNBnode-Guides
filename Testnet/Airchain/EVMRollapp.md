@@ -125,3 +125,8 @@ go run cmd/main.go start
 ```
 Monitoring your appchain:
 [https://points.airchains.io/](https://points.airchains.io/)
+
+Add chain to metamask:
+Chain Name:
+Chain ID: 1234
+RPC: http://YOUR-SERVER-IP4:16545
