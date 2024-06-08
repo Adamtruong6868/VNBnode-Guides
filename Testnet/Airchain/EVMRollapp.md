@@ -33,6 +33,7 @@ go mod tidy
 ```
 nano ./scripts/local-setup.sh
 ```
+#### Setup
 ```
 /bin/bash ./scripts/local-setup.sh
 ```
